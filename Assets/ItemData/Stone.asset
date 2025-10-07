@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d74ef346ca31d084e9fdef2315e41b84, type: 3}
+  m_Name: Stone
+  m_EditorClassIdentifier: 
+  ItemName: Stone
+  ItemID: Stone_001
+  type: 0
+  icon: {fileID: 21300000, guid: 583675a75bcb2a941ac555b9ccd513a9, type: 3}
+  worldPrefab: {fileID: 3851788042058408909, guid: 53b55307eb65718489abb291b4004acd, type: 3}
+  description: "\u666E\u901A\u306E\u77F3\u3060\u3002\u4F55\u304B\u306B\u4F7F\u3048\u308B\u304B\u3082...\uFF1F"
+  healAmount: 0
+  attackBoost: 0

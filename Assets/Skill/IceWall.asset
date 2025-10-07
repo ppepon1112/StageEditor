@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37a262795ec866544984a012d37b9985, type: 3}
+  m_Name: IceWall
+  m_EditorClassIdentifier: 
+  SkillName: Ice
+  type: 1
+  icon: {fileID: 0}
+  description: 
+  damage: 40
+  range: 20
+  deration: 15
+  castTime: 5
+  cooldown: 5
+  requiredLevel: 5
+  MasicCirclePrefab: {fileID: 978755523996598493, guid: f31c89f13805df34f97ddf803efd2e78, type: 3}
+  effectPrefab: {fileID: 1681640976565163611, guid: 36c7dc8963434a941855af3d8d948a61, type: 3}
+  SkillKey: 50

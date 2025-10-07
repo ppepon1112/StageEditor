@@ -1,0 +1,1347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\canvaspersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\canvaspersistent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\map\\warpdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\warpdoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\map\\playerspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\playerspawnpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\savedata\\playersavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\playersavedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\battle\\playerspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\playerspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|c:\\hal\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\realm\\realm\\assets\\script\\savedata\\statusdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\statusdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\savedata\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\savedata\\playerstatusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\playerstatusdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\map\\playerwarpdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\playerwarpdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\riramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\riramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\skill\\fireballmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\fireballmover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\skill\\fireskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\fireskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\skill\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\skillmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\stagerooteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\stagerooteditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\skill\\iceskilldmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\iceskilldmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\skill\\iceskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\iceskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\skill\\skilldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\weapon\\swordcollidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\swordcollidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\weapon\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\riraattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\riraattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\weapon\\weaponequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weaponequip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\weapon\\weapondamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\weapon\\weapondamage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\npc\\npcai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\npc\\npcai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\npc\\npcdialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\npc\\npcdialoguetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\itementry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itementry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\itemdatabaseeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itemdatabaseeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itemmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itemdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\playerinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\hpberfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\hpberfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\talksystem\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\talksystem\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\talksystem\\dialoguedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\talksystem\\dialoguedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\talksystem\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\talksystem\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\statuseditor\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statuseditor\\enemydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\playerbarrir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerbarrir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\shader\\fireball.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\fireball.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\statuseditor\\enemydataeditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statuseditor\\enemydataeditorwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\shader\\fireballframe.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\fireballframe.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\shader\\particle.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\particle.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\shader\\smoke.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\smoke.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\shader\\icecrystal.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\icecrystal.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\shader\\scroll.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\shader\\scroll.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\craftingslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\craftingslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\stageroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\stageroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\craftingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\craftingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\itemslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\itemslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\battle\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\battle\\playerencountertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\playerencountertrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\daycycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\daycycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\dust\\runtimeplacerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\dust\\runtimeplacerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\dust\\runtimeplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\dust\\runtimeplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\dust\\runtimechangebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\dust\\runtimechangebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\dust\\runtimechangeapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\dust\\runtimechangeapplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\savedata\\titlemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\titlemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\water\\watereffecttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\water\\watereffecttrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\placeableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\placeableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\stage\\objectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\stage\\objectdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\craftingrecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\itemdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\itemdrop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\resultslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\resultslotui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\dragitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\dragitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\itemdragdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\itemdragdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\savedata\\debugsaveresetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\debugsaveresetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\crafting\\itemdroptarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\crafting\\itemdroptarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\item\\inventorydroparea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\item\\inventorydroparea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\trianglegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\trianglegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\distanceculling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\distanceculling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\SaveData\\PlayerStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingRecipeData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Item\\Crafting\\CraftingRecipeData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimePlacerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Stage\\RuntimePlacerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimeChangeApplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Stage\\RuntimeChangeApplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimePlacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Stage\\RuntimePlacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimeChangeBuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\Stage\\RuntimeChangeBuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerSpawnManager.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Battle\\PlayerSpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\PlayerSpawnManager.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Battle\\PlayerSpawnManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\PlayerSpawnManager.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T00:22:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StatusDisplay.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\StatusDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\StatusDisplay.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\StatusDisplay.cs",
+              "RelativeToolTip": "Assets\\Script\\SaveData\\StatusDisplay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:37:56.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerSaveData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerSaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\PlayerSaveData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerSaveData.cs",
+              "RelativeToolTip": "Assets\\Script\\SaveData\\PlayerSaveData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:46:21.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerSpawnPoint.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\PlayerSpawnPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Map\\PlayerSpawnPoint.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\PlayerSpawnPoint.cs",
+              "RelativeToolTip": "Assets\\Script\\Map\\PlayerSpawnPoint.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:14:54.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveLoadManager.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\SaveLoadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\SaveLoadManager.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\SaveLoadManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SaveData\\SaveLoadManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:04:17.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerStatusData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerStatusData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\PlayerStatusData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerStatusData.cs",
+              "RelativeToolTip": "Assets\\Script\\SaveData\\PlayerStatusData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T09:59:25.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarpDoor.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\WarpDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Map\\WarpDoor.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\WarpDoor.cs",
+              "RelativeToolTip": "Assets\\Script\\Map\\WarpDoor.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:10:45.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerHealth.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerHealth.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAowO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:10:28.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanvasPersistent.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\CanvasPersistent.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CanvasPersistent.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\CanvasPersistent.cs",
+              "RelativeToolTip": "Assets\\Script\\CanvasPersistent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:29:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerWarpData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\PlayerWarpData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Map\\PlayerWarpData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\PlayerWarpData.cs",
+              "RelativeToolTip": "Assets\\Script\\Map\\PlayerWarpData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T03:14:16.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerCamera.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\PlayerCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerCamera.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\PlayerCamera.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerCamera.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T00:13:30.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RiraMove.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\RiraMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RiraMove.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\RiraMove.cs",
+              "RelativeToolTip": "Assets\\Script\\RiraMove.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T09:25:19.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FireSkill.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\FireSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\FireSkill.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\FireSkill.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\FireSkill.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T08:02:36.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FireBallMover.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\FireBallMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\FireBallMover.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\FireBallMover.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\FireBallMover.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAEsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T00:37:36.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StageRootEditor.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\StageRootEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\StageRootEditor.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\StageRootEditor.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\StageRootEditor.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T10:07:30.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IceSkill.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\IceSkill.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\IceSkill.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\IceSkill.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\IceSkill.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T04:35:59.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SkillManager.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\SkillManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\SkillManager.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\SkillManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\SkillManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:59:15.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IceSkillDMG.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\IceSkillDMG.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\IceSkillDMG.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\IceSkillDMG.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\IceSkillDMG.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T00:08:34.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SkillData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\SkillData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Skill\\SkillData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Skill\\SkillData.cs",
+              "RelativeToolTip": "Assets\\Script\\Skill\\SkillData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:30:30.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyAI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyAI.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAlwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T05:55:17.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SwordColliderController.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\SwordColliderController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\SwordColliderController.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\SwordColliderController.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\SwordColliderController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T04:53:24.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeaponSwitcher.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\WeaponSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponSwitcher.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\WeaponSwitcher.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponSwitcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T02:40:44.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RiraAttack.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\RiraAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RiraAttack.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\RiraAttack.cs",
+              "RelativeToolTip": "Assets\\Script\\RiraAttack.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAQwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:08:21.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeaponEquip.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\WeaponEquip.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponEquip.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\WeaponEquip.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponEquip.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:14:53.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeaponDamage.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\WeaponDamage.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Weapon\\WeaponDamage.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Weapon\\WeaponDamage.cs",
+              "RelativeToolTip": "Assets\\Script\\Weapon\\WeaponDamage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T04:48:47.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NPCAI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\NPC\\NPCAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NPC\\NPCAI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\NPC\\NPCAI.cs",
+              "RelativeToolTip": "Assets\\Script\\NPC\\NPCAI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:50:38.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ItemEntry.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemEntry.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemEntry.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemEntry.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemEntry.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T09:49:54.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItemDatabase.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemDatabase.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemDatabase.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:06:49.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PlayerInventory.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\PlayerInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\PlayerInventory.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\PlayerInventory.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\PlayerInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T04:50:09.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemManager.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemManager.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:10:30.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T01:03:19.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "NPCDialogueTrigger.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\NPC\\NPCDialogueTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\NPC\\NPCDialogueTrigger.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\NPC\\NPCDialogueTrigger.cs",
+              "RelativeToolTip": "Assets\\Script\\NPC\\NPCDialogueTrigger.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvxQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:16:28.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItemDatabaseEditor.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemDatabaseEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemDatabaseEditor.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemDatabaseEditor.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemDatabaseEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T05:54:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TalkSystem\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TalkSystem\\DialogueManager.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TalkSystem\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TalkSystem\\DialogueManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwFUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:30:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HPBerFollow.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\HPBerFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\HPBerFollow.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\HPBerFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\HPBerFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:56:36.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemySpawner.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemySpawner.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:40:47.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TalkSystem\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TalkSystem\\Billboard.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TalkSystem\\Billboard.cs",
+              "RelativeToolTip": "Assets\\Script\\TalkSystem\\Billboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:48:52.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DialogueData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TalkSystem\\DialogueData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TalkSystem\\DialogueData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TalkSystem\\DialogueData.cs",
+              "RelativeToolTip": "Assets\\Script\\TalkSystem\\DialogueData.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T03:22:34.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\InventoryController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\InventoryController.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\InventoryController.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\InventoryController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T05:37:36.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PlayerBarrir.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\PlayerBarrir.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerBarrir.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\PlayerBarrir.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerBarrir.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:53:24.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EnemyData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\StatusEditor\\EnemyData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StatusEditor\\EnemyData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\StatusEditor\\EnemyData.cs",
+              "RelativeToolTip": "Assets\\Script\\StatusEditor\\EnemyData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T23:58:37.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Fireball.shader",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Fireball.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Fireball.shader",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Fireball.shader",
+              "RelativeToolTip": "Assets\\Shader\\Fireball.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-09-24T00:03:44.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EnemyDataEditorWindow.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\StatusEditor\\EnemyDataEditorWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\StatusEditor\\EnemyDataEditorWindow.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\StatusEditor\\EnemyDataEditorWindow.cs",
+              "RelativeToolTip": "Assets\\Script\\StatusEditor\\EnemyDataEditorWindow.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwFAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T00:05:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FireballFrame.shader",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\FireballFrame.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\FireballFrame.shader",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\FireballFrame.shader",
+              "RelativeToolTip": "Assets\\Shader\\FireballFrame.shader",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-09-24T01:28:56.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Particle.shader",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Particle.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Particle.shader",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Particle.shader",
+              "RelativeToolTip": "Assets\\Shader\\Particle.shader",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwDwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-09-20T10:24:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IceCrystal.shader",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\IceCrystal.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\IceCrystal.shader",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\IceCrystal.shader",
+              "RelativeToolTip": "Assets\\Shader\\IceCrystal.shader",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-09-24T04:17:06.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Smoke.shader",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Smoke.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Smoke.shader",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Smoke.shader",
+              "RelativeToolTip": "Assets\\Shader\\Smoke.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-09-24T01:36:29.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CraftingSlotUI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\CraftingSlotUI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingSlotUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\CraftingSlotUI.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA0wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T04:43:15.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Scroll.shader",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Scroll.shader",
+              "RelativeDocumentMoniker": "Assets\\Shader\\Scroll.shader",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Shader\\Scroll.shader",
+              "RelativeToolTip": "Assets\\Shader\\Scroll.shader",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-09-20T10:11:11.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StageRoot.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\StageRoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\StageRoot.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\StageRoot.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\StageRoot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAoAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-17T10:07:03.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CraftingSystem.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\CraftingSystem.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\CraftingSystem.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAwwAwAAAAeAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-20T00:37:59.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\InventoryUI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\InventoryUI.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAWAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-11T06:01:56.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ItemSlotUI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ItemSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\ItemSlotUI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ItemSlotUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\ItemSlotUI.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwGIAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-11T06:11:15.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Battle\\BattleManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\BattleManager.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Battle\\BattleManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\BattleManager.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBIAAAAqAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-10T00:18:36.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PlayerEncounterTrigger.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Battle\\PlayerEncounterTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Battle\\PlayerEncounterTrigger.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Battle\\PlayerEncounterTrigger.cs",
+              "RelativeToolTip": "Assets\\Script\\Battle\\PlayerEncounterTrigger.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-08-10T00:12:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "RuntimeChangeBuffer.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimeChangeBuffer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\Dust\\RuntimeChangeBuffer.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimeChangeBuffer.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\Dust\\RuntimeChangeBuffer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBIAAAADAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-24T01:02:30.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RuntimePlacer.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimePlacer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\Dust\\RuntimePlacer.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimePlacer.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\Dust\\RuntimePlacer.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwEkAAAAHAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-24T01:02:41.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RuntimeChangeApplier.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimeChangeApplier.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\Dust\\RuntimeChangeApplier.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimeChangeApplier.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\Dust\\RuntimeChangeApplier.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFQAAAAyAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-24T01:02:04.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "DayCycle.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\DayCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DayCycle.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\DayCycle.cs",
+              "RelativeToolTip": "Assets\\Script\\DayCycle.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAoAAAA5AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-24T01:45:34.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "TitleMenu.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\TitleMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\TitleMenu.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\TitleMenu.cs",
+              "RelativeToolTip": "Assets\\Script\\SaveData\\TitleMenu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwA0AAAAhAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-24T00:48:13.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RuntimePlacerUI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimePlacerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\Dust\\RuntimePlacerUI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\Dust\\RuntimePlacerUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\Dust\\RuntimePlacerUI.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCwAAAAHAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-24T01:02:58.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "WaterEffectTrigger.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Water\\WaterEffectTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Water\\WaterEffectTrigger.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Water\\WaterEffectTrigger.cs",
+              "RelativeToolTip": "Assets\\Script\\Water\\WaterEffectTrigger.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwBwAAAAJAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-23T02:41:23.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CraftingRecipe.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingRecipe.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\CraftingRecipe.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingRecipe.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\CraftingRecipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-20T00:39:06.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "PlaceableObject.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\PlaceableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\PlaceableObject.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\PlaceableObject.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\PlaceableObject.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBIAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-17T10:05:28.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ObjectDatabase.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\ObjectDatabase.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\ObjectDatabase.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\ObjectDatabase.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\ObjectDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA4AAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-17T10:03:03.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "RuntimeChangeBuffer.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimeChangeBuffer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\RuntimeChangeBuffer.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimeChangeBuffer.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\RuntimeChangeBuffer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:46:23.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RuntimePlacer.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimePlacer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\RuntimePlacer.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimePlacer.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\RuntimePlacer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:46:23.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "RuntimeChangeApplier.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimeChangeApplier.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\RuntimeChangeApplier.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimeChangeApplier.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\RuntimeChangeApplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:46:23.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RuntimePlacerUI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimePlacerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Stage\\RuntimePlacerUI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Stage\\RuntimePlacerUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Stage\\RuntimePlacerUI.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAzwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:46:23.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ResultSlotUI.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ResultSlotUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\ResultSlotUI.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ResultSlotUI.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\ResultSlotUI.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAoAAAAlAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-20T01:10:35.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ItemDrop.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemDrop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\ItemDrop.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\ItemDrop.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\ItemDrop.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBgAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-11T02:10:33.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "DragItem.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\DragItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\DragItem.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\DragItem.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\DragItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-18T10:29:46.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ItemDragData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ItemDragData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\ItemDragData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ItemDragData.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\ItemDragData.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowAsAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-18T04:25:17.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DebugSaveResetter.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\DebugSaveResetter.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\DebugSaveResetter.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\DebugSaveResetter.cs",
+              "RelativeToolTip": "Assets\\Script\\SaveData\\DebugSaveResetter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAAnAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-20T05:20:15.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ItemDropTarget.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ItemDropTarget.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\ItemDropTarget.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\ItemDropTarget.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\ItemDropTarget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-18T05:44:09.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "InventoryDropArea.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\InventoryDropArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\InventoryDropArea.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\InventoryDropArea.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\InventoryDropArea.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAwAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-07-18T10:29:42.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "CraftingRecipeData.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingRecipeData.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Item\\Crafting\\CraftingRecipeData.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Item\\Crafting\\CraftingRecipeData.cs",
+              "RelativeToolTip": "Assets\\Script\\Item\\Crafting\\CraftingRecipeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T00:39:06.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "DamageText.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\DamageText.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DamageText.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\DamageText.cs",
+              "RelativeToolTip": "Assets\\Script\\DamageText.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBwAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-26T23:55:14.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAgAAAAdAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-19T07:47:29.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TriangleGenerator.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TriangleGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TriangleGenerator.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\TriangleGenerator.cs",
+              "RelativeToolTip": "Assets\\Script\\TriangleGenerator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCEAAABGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-13T05:11:10.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "PlayerStatus.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerStatus.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\PlayerStatus.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerStatus.cs",
+              "RelativeToolTip": "Assets\\Script\\SaveData\\PlayerStatus.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T10:39:55.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "DistanceCulling.cs",
+              "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\DistanceCulling.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DistanceCulling.cs",
+              "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\DistanceCulling.cs",
+              "RelativeToolTip": "Assets\\Script\\DistanceCulling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALNSURBVDhP7ZNNSBRhGMf/7zuz66gzuequXwgKm\u002BtHkIibdEgEDe1QCCEEKaKXhE75QXnIUjwJ5uIhkAiDEDvkQVTELQ8aHlTm4iorrhqLlrq6m7vtau7OzE6nERU8RTd/pwee//Pjgfd9gCv\u002BFUYrVjwrfMWjimRdsU6QbkuCsdwo5N/PF0pqSvTOcecfAPD7/Yl8GZ/ouu7SB2YC4ba2NtNWwdY15aaCg9mDCABQTRg5jjSBgSjrZZGlrChHZZFQIrIMa9MyChQbS1mRYzlbKBQyhqPhKR10YpgJN2kZAgAOt6PDvmGvW9pZsnAMh4LUAvAxPOSojLAcnmgsbqxXoNj65/rvzW7OproP3R6O5RxFmUWl6wfr3OHxoYsSOrTxaqObAsD8j/lbbp/boqoqqixVocKMwjdFGUVdOcacrjQ\u002B7VNCQoIUVaPL6UJ6wMSbQAgJxOnjHHmmPEmIEQCCHQCb2paoeV8z9vjDY7VrossTDAY/\u002Bv3\u002BpNPmGXy/fWM9X3pUc7d5fD\u002B0n\u002B4L\u002BH42DDWo5m5zp5ahALDmXYOe1cMQZ1gUBKHeYDD8OitSVZUGg8EUb8jLHUWOABXcwNxAiifoYSJKBASEz3ydmXQqlBUZAMBS9qznFO0B\u002Br71lY44RiBFpTuD84P22uFao7gtQokqTziWs0ETZidm40Q\u002BgWPPcdEFAIiPjw9AxYvqG9WOMnMZWMouW0yW5\u002B3l7YFcUy4ooROEkLcAwAJAZV4lnHtOuPZdlubPzZ2VeZXg9Ty8IS92g7suSukwgK8\u002Bv8\u002B4tLOUS0Fd9qf2Ma/fa5pcnRRAMLP\u002Bcn0R2rdZ\u002BL7QMeWcqlvxrFiS4pKQn5KPWF0spKiEiByZaLnb8uDC0pdCtGJ6dbrV7XO3ji6PYjuwDYYyMCebkZWYNd37sLf\u002B/NjlnF4KB\u002B4dACuVqZUSalVV1cqojFWRlGfnR6743/wF2Ocp0aqGDqUAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-04T02:40:24.397Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
