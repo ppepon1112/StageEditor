@@ -43,12 +43,12 @@ public class StatusDisplay : MonoBehaviour
         if (playerStatus != null && statusText != null)
         {
             statusText.text =
-                $"<b>ステータス<b>\n" +
-                $"レベル:{playerStatus.saveData.level}\n" +
+                $"<b>STATUS<b>\n" +
+                $"Level:{playerStatus.saveData.level}\n" +
                 $"HP:{playerStatus.saveData.currentHP}/{playerStatus.saveData.maxHP}\n" +
-                $"経験値:{playerStatus.saveData.experience}/{playerStatus.saveData.maxExperience}\n" +
-                $"攻撃力:{playerStatus.saveData.attack}\n" +
-                $"防御力:{playerStatus.saveData.defence}";
+                $"Experience:{playerStatus.saveData.experience}/{playerStatus.saveData.maxExperience}\n" +
+                $"ATK:{playerStatus.saveData.attack}\n" +
+                $"DFE:{playerStatus.saveData.defence}";
         }
     }
 }

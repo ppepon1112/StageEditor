@@ -14,19 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lines:
   - SpeakerName: NPC
-    text: "\u3053\u3093\u306B\u3061\u308F\uFF01"
+    text: Hello!
     portrait: {fileID: 0}
     nextID: 1
     choice: []
   - SpeakerName: NPC
-    text: "\u5143\u6C17\u304B\u3044\uFF1F"
+    text: How are you?
     portrait: {fileID: 0}
     nextID: 2
     choice:
-    - text: "\u5143\u6C17\u3060\u3088\uFF01"
+    - text: I'm good!
       nextID: 2
   - SpeakerName: NPC
-    text: "\u305D\u308C\u306F\u3088\u304B\u3063\u305F"
+    text: That's great.
     portrait: {fileID: 0}
     nextID: 3
     choice: []

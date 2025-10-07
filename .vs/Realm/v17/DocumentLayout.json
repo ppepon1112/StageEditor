@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\savedata\\statusdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\statusdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|c:\\hal\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\realm\\realm\\assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\battle\\playerspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\battle\\playerspawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|c:\\hal\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\realm\\realm\\assets\\script\\savedata\\statusdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\savedata\\statusdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FE44D76-9AD0-67DF-C7CE-6EFC038439A3}|Assembly-CSharp.csproj|C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\assets\\script\\savedata\\saveloadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -338,7 +338,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -350,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PlayerSpawnManager.cs",
               "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Battle\\PlayerSpawnManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Battle\\PlayerSpawnManager.cs",
@@ -358,25 +358,24 @@
               "RelativeToolTip": "Assets\\Script\\Battle\\PlayerSpawnManager.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAAmwC0AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-10T00:22:20.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-10T00:22:20.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "StatusDisplay.cs",
               "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\StatusDisplay.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\StatusDisplay.cs",
               "ToolTip": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\StatusDisplay.cs",
               "RelativeToolTip": "Assets\\Script\\SaveData\\StatusDisplay.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T08:37:56.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PlayerSaveData.cs",
               "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\SaveData\\PlayerSaveData.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SaveData\\PlayerSaveData.cs",
@@ -384,12 +383,11 @@
               "RelativeToolTip": "Assets\\Script\\SaveData\\PlayerSaveData.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-12T09:46:21.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-12T09:46:21.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayerSpawnPoint.cs",
               "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\PlayerSpawnPoint.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Map\\PlayerSpawnPoint.cs",
@@ -397,8 +395,7 @@
               "RelativeToolTip": "Assets\\Script\\Map\\PlayerSpawnPoint.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T03:14:54.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T03:14:54.679Z"
             },
             {
               "$type": "Document",
@@ -426,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "WarpDoor.cs",
               "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\Map\\WarpDoor.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Map\\WarpDoor.cs",
@@ -434,12 +431,11 @@
               "RelativeToolTip": "Assets\\Script\\Map\\WarpDoor.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowCMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-03T07:10:45.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-03T07:10:45.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerHealth.cs",
@@ -452,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CanvasPersistent.cs",
               "DocumentMoniker": "C:\\HAL\\\u81EA\u4F5C\\\u500B\u4EBA\u5236\u4F5C\\Realm\\Realm\\Assets\\Script\\CanvasPersistent.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CanvasPersistent.cs",
@@ -460,8 +456,7 @@
               "RelativeToolTip": "Assets\\Script\\CanvasPersistent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T08:29:57.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T08:29:57.627Z"
             },
             {
               "$type": "Document",
